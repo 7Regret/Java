@@ -1,2 +1,2 @@
-# RaccoonHome
+# Java
 Java practice
